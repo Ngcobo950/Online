@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Online/static/css/main.40dfd088.chunk.css",
+    "main.js": "/Online/static/js/main.cedbbd65.chunk.js",
+    "main.js.map": "/Online/static/js/main.cedbbd65.chunk.js.map",
+    "runtime~main.js": "/Online/static/js/runtime~main.fa48c9da.js",
+    "runtime~main.js.map": "/Online/static/js/runtime~main.fa48c9da.js.map",
+    "static/css/2.d729d116.chunk.css": "/Online/static/css/2.d729d116.chunk.css",
+    "static/js/2.f1c0e94c.chunk.js": "/Online/static/js/2.f1c0e94c.chunk.js",
+    "static/js/2.f1c0e94c.chunk.js.map": "/Online/static/js/2.f1c0e94c.chunk.js.map",
+    "index.html": "/Online/index.html",
+    "precache-manifest.40f34b34cb9547e6a7bd9b72a5ab33dc.js": "/Online/precache-manifest.40f34b34cb9547e6a7bd9b72a5ab33dc.js",
+    "service-worker.js": "/Online/service-worker.js",
+    "static/css/2.d729d116.chunk.css.map": "/Online/static/css/2.d729d116.chunk.css.map",
+    "static/css/main.40dfd088.chunk.css.map": "/Online/static/css/main.40dfd088.chunk.css.map",
+    "static/media/Musa.jpg": "/Online/static/media/Musa.1850796c.jpg",
+    "static/media/font-awesome.min.css": "/Online/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
