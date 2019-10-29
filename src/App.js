@@ -20,8 +20,6 @@ const App = props => {
             <h5 className="text-center">Junior Front-End Developer</h5>
             <ul className="list-unstyled">
               <li className="fa fa-lg fa-envelope "> ngcobomusa950@gmail.com</li><br/>
-              <li className="fa fa-lg fa-phone "> 0685375246</li><br/>
-              <li className="fa fa-lg fa-phone "> 0748131795</li>
             </ul>
           </div>  
         </div>
