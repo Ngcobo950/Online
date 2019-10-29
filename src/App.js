@@ -16,7 +16,7 @@ const App = props => {
         <div className="profileImg" id="center">
           <img alt="Musa" src={Musa} width="200" id="musa"/>
           <div>
-            <h1 className="text-center">Musa Ngcobo</h1>
+            <h1 className="text-center">Musa Ngcobo.</h1>
             <h5 className="text-center">Junior Front-End Developer</h5>
             <ul className="list-unstyled">
               <li className="fa fa-lg fa-envelope "> ngcobomusa950@gmail.com</li><br/>
