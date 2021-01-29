@@ -14,7 +14,7 @@ const App = props => {
     <div class="grid-container">
       <div class="grid-item">
         <div className="profileImg" id="center">
-          <img alt="Musa" src={Musa} width="200" id="musa"/>
+          <img alt="Musa" src={Musa} width="150" id="musa"/>
           <div>
             <h1 className="text-center">Musa Ngcobo.</h1>
             <h5 className="text-center">Junior Front-End Developer</h5>
