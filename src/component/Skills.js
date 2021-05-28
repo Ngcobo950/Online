@@ -13,7 +13,10 @@ function Skills(){
 		<li className = "list" className="react-label">javastript</li>
 		<li className = "list" className="react-label">react</li>
 		<li className = "list" className="react-label">babel</li>
-		<li className = "list" className="react-label">json</li>
+		<li className = "list" className="react-label">next.js</li>
+		<li className = "list" className="react-label">graphql</li>
+		<li className = "list" className="react-label">material ui</li>
+		<li className = "list" className="react-label">ant design</li>
 
 
 			
