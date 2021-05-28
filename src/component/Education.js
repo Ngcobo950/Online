@@ -6,9 +6,9 @@ function Education(){
 		<h3>EDUCATION</h3>
 		<hr id='edu'/>
 		<ul id='education'>
-		<li>Institution :Hyperiondev (Cogramma) Bootcamp ,
+		<li>Institution :Life Choices (Hyperiondev) Bootcamp ,
 
-		Qualification :Coding certificate (currently enrolled).</li>
+		Qualification :Coding certificate (complete).</li>
 
 		<li>Institution :UNISA ,
 
