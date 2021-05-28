@@ -5,15 +5,14 @@ function About() {
         <div>
 		<h3>ABOUT</h3>
 		<hr id="line"/>
-		<p>As a skilled student currently pursuing my Certificate of Coding at Cogramma,in particular with the experience I’ve gain in my previous internship and work at Kga Life,
-		where I could learn work ethics, marketing, analyzing and communication.
- 
-		With my educational background and previous internship and work experience, I am adept in analyzing and preparing complex analysis, presentations,
-		coding models which are Python, Html,Css,Javastript,React and also the Personal development module we are doing. Moreover, while my career history has afforded me a well-rounded skill set,
-		including first-rate time management skills, I excel at:Communication, Analyzing, Marketing, Creative, Problem solving.
- 
-		In addition to my education and solid career track record, I have a strong passion for Coding and analysts.I am sound organizing, Client orientated, ability to meet deadlines, attention to detail,
-		focused and accurate, able to work independently and in a Team, Prioritize work, Reliable and Loyal.
+		<p>
+		My name is Musa Ngcobo I am a skilled coder who has obtained a coding certificate at HyperionDev covering modules such as
+                Python, HTML, CSS, Javascript, REACT, JSON, and EXPRESS. I have gained at least 9 months
+                experience as a coder in previous internship at CloudOne.mobi. As an intern I was working on a project https://tallorderpos.com/
+                analysing and preparing complex analysis, presentations,with coding stacks which are NEXT.js, REACT, ReactChart2 ,
+                GRAPHQL, Ant design , Material UI and Typescript/Javascript. I have sound organising skills, I am client orientated, ability to meet
+                deadlines, attention to detail, able to work independently and within a Team, ability to prioritize
+                work, I am reliable and loyal.
 
 		</p>
 
